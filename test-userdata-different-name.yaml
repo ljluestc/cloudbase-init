@@ -1,0 +1,24 @@
+#cloud-config
+# Test userdata for Issue #110 - username DIFFERENT from computer name
+# This is a regression test to ensure the fix doesn't break existing functionality
+# 
+# Before using this:
+# 1. Set your computer name to something OTHER than 'adminuser'
+#    PowerShell: Rename-Computer -NewName "MYCOMPUTER" -Restart
+# 2. Deploy this userdata file via your metadata service
+# 3. Run cloudbase-init
+# 4. Verify user 'adminuser' is created and added to Administrators group
+#
+# Expected behavior (should work both with and without the fix):
+#   - User 'adminuser' created successfully
+#   - User added to Administrators group successfully
+
+users:
+  - name: adminuser
+    passwd: AdminPassword123!
+    primary_group: Administrators
+    groups:
+      - Users
+    lock_passwd: false
+    inactive: false
+

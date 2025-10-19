@@ -1,0 +1,29 @@
+#cloud-config
+# Test userdata for Issue #110 - multiple groups with matching username
+# 
+# Before using this:
+# 1. Set your computer name to 'multitest'
+#    PowerShell: Rename-Computer -NewName "multitest" -Restart
+# 2. Create a custom group (optional):
+#    PowerShell: New-LocalGroup -Name "CustomGroup" -Description "Test group"
+# 3. Deploy this userdata file via your metadata service
+# 4. Run cloudbase-init
+# 5. Verify user is added to all specified groups
+#
+# Expected behavior WITH the fix:
+#   - User 'multitest' created successfully
+#   - User added to ALL specified groups successfully
+#
+# Verification:
+#   PowerShell: Get-LocalUser -Name multitest | Get-LocalGroup
+
+users:
+  - name: multitest
+    passwd: MultiTest123!
+    groups:
+      - Administrators
+      - Users
+      - Remote Desktop Users
+    lock_passwd: false
+    inactive: false
+
