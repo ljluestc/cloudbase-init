@@ -367,7 +367,9 @@ class TestWindowsUtils(testutils.CloudbaseInitTestBase):
                 self._ctypes_mock.pointer.return_value, 1)
 
             self._ctypes_mock.pointer.assert_called_once_with(lmi)
-            self.assertEqual(lmi.lgrmi3_domainandname, str(self._USERNAME))
+            # Username should be qualified with local domain prefix
+            expected_username = f".\\{self._USERNAME}"
+            self.assertEqual(lmi.lgrmi3_domainandname, str(expected_username))
 
     def test_add_user_to_local_group_no_error(self):
         self._test_add_user_to_local_group(ret_value=0)
