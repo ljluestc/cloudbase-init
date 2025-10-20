@@ -1,0 +1,154 @@
+time: 2025-10-19 23:20:31.838333Z
+tags: worker-11
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user
+time: 2025-10-19 23:20:31.841127Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 23:20:31.848443Z
+tags: worker-7
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin
+time: 2025-10-19 23:20:31.851996Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 23:20:31.856231Z
+tags: worker-14
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_fail
+time: 2025-10-19 23:20:31.858645Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_fail [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 23:20:31.872073Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_wrong_content
+time: 2025-10-19 23:20:31.872919Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_wrong_content [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:31.873180Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_groups
+time: 2025-10-19 23:20:31.873285Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_groups [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:31.825579Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_access_denied
+time: 2025-10-19 23:20:31.881508Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_access_denied [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:20:31.826334Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_not_found
+time: 2025-10-19 23:20:31.885576Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_not_found [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:20:31.889066Z
+tags: worker-9
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_no_user
+time: 2025-10-19 23:20:31.893646Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_no_user [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 23:20:31.899479Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user_inactive_with_create_home
+time: 2025-10-19 23:20:31.901367Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user_inactive_with_create_home [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:31.901690Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_expire_interval
+time: 2025-10-19 23:20:31.901934Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_expire_interval [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:31.908275Z
+tags: worker-15
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_get_password
+time: 2025-10-19 23:20:31.909594Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_get_password [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 23:20:31.908568Z
+tags: worker-13
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test_process_user
+time: 2025-10-19 23:20:31.910423Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test_process_user [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 23:20:31.854989Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_invalid_member
+time: 2025-10-19 23:20:31.914931Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_invalid_member [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 23:20:31.873715Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_error
+time: 2025-10-19 23:20:31.927903Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_error [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 23:20:31.872702Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_member
+time: 2025-10-19 23:20:31.940963Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_member [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:20:31.947665Z
+tags: worker-16
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_empty
+time: 2025-10-19 23:20:31.950558Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_empty [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 23:20:31.952876Z
+tags: worker-17
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_password
+time: 2025-10-19 23:20:31.954341Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_password [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 23:20:32.022095Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin_taken
+time: 2025-10-19 23:20:32.026489Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin_taken [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:32.034397Z
+tags: worker-6
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_add_to_group_fails
+time: 2025-10-19 23:20:32.040507Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_add_to_group_fails [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 23:20:32.048925Z
+tags: worker-12
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group
+time: 2025-10-19 23:20:32.052346Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 23:20:31.957641Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_member_in_alias
+time: 2025-10-19 23:20:32.057042Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_member_in_alias [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:20:32.130938Z
+tags: worker-10
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_user_exists
+time: 2025-10-19 23:20:32.135075Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_user_exists [ multipart
+]
+tags: -worker-10

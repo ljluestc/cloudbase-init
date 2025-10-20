@@ -1,0 +1,42 @@
+time: 2025-10-19 23:19:55.032779Z
+tags: worker-4
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_groups
+time: 2025-10-19 23:19:55.033194Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_groups [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:19:55.036701Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_expire_interval
+time: 2025-10-19 23:19:55.036999Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_expire_interval [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:19:55.036905Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user_inactive_with_create_home
+time: 2025-10-19 23:19:55.037502Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user_inactive_with_create_home [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:19:55.038322Z
+tags: worker-1
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user
+time: 2025-10-19 23:19:55.039439Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 23:19:55.040259Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_password
+time: 2025-10-19 23:19:55.040733Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_password [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:19:55.040201Z
+tags: worker-0
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test_process_user
+time: 2025-10-19 23:19:55.040992Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test_process_user [ multipart
+]
+tags: -worker-0

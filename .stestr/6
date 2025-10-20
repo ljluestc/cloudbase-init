@@ -1,0 +1,42 @@
+time: 2025-10-19 23:19:57.322233Z
+tags: worker-4
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_no_user
+time: 2025-10-19 23:19:57.323871Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_no_user [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:19:57.322267Z
+tags: worker-0
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_add_to_group_fails
+time: 2025-10-19 23:19:57.325275Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_add_to_group_fails [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 23:19:57.326945Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin_taken
+time: 2025-10-19 23:19:57.328553Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin_taken [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:19:57.328766Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_user_exists
+time: 2025-10-19 23:19:57.330368Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_user_exists [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:19:57.338682Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin
+time: 2025-10-19 23:19:57.340886Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:19:57.368076Z
+tags: worker-1
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_get_password
+time: 2025-10-19 23:19:57.368955Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_get_password [ multipart
+]
+tags: -worker-1
