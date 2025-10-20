@@ -1,0 +1,27 @@
+#cloud-config
+# Test userdata for Issue #110 - username matches computer name
+# 
+# Before using this:
+# 1. Set your computer name to 'testuser' 
+#    PowerShell: Rename-Computer -NewName "testuser" -Restart
+# 2. Deploy this userdata file via your metadata service
+# 3. Run cloudbase-init
+# 4. Verify user 'testuser' is created and added to Administrators group
+#
+# Expected behavior WITH the fix:
+#   - User 'testuser' created successfully
+#   - User added to Administrators group successfully
+#
+# Expected behavior WITHOUT the fix (bug):
+#   - User 'testuser' created successfully
+#   - FAILS to add user to Administrators group
+
+users:
+  - name: testuser
+    passwd: TestPassword123!
+    primary_group: Administrators
+    groups:
+      - Users
+    lock_passwd: false
+    inactive: false
+

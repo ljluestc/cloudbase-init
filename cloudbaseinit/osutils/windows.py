@@ -612,7 +612,11 @@ class WindowsUtils(base.BaseOSUtils):
     def add_user_to_local_group(self, username, groupname):
 
         lmi = Win32_LOCALGROUP_MEMBERS_INFO_3()
-        lmi.lgrmi3_domainandname = str(username)
+        # Qualify the username with the local domain prefix to avoid
+        # name resolution ambiguity when username matches computer name
+        # (see issue #110)
+        qualified_username = f".\\{username}"
+        lmi.lgrmi3_domainandname = str(qualified_username)
 
         ret_val = netapi32.NetLocalGroupAddMembers(0, str(groupname),
                                                    3, ctypes.pointer(lmi), 1)

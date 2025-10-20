@@ -1,0 +1,7 @@
+time: 2025-10-19 23:47:45.244086Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_error
+time: 2025-10-19 23:47:45.263571Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_error [ multipart
+]
+tags: -worker-0

@@ -1,0 +1,28 @@
+time: 2025-10-19 23:19:56.183818Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_wrong_content
+time: 2025-10-19 23:19:56.184183Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_wrong_content [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:19:56.183724Z
+tags: worker-1
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group
+time: 2025-10-19 23:19:56.184771Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 23:19:56.183791Z
+tags: worker-0
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_empty
+time: 2025-10-19 23:19:56.184795Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_empty [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 23:19:56.187447Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_fail
+time: 2025-10-19 23:19:56.188266Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_fail [ multipart
+]
+tags: -worker-2

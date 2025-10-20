@@ -1,0 +1,42 @@
+time: 2025-10-19 23:19:48.446479Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_error
+time: 2025-10-19 23:19:48.476372Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_error [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 23:19:48.456476Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_member_in_alias
+time: 2025-10-19 23:19:48.480693Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_member_in_alias [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 23:19:48.437452Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_access_denied
+time: 2025-10-19 23:19:48.480751Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_access_denied [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:19:48.461787Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_not_found
+time: 2025-10-19 23:19:48.485988Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_not_found [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:19:48.475461Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_member
+time: 2025-10-19 23:19:48.502105Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_member [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:19:48.516023Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_invalid_member
+time: 2025-10-19 23:19:48.540800Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_invalid_member [ multipart
+]
+tags: -worker-3

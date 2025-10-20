@@ -1,0 +1,1351 @@
+time: 2025-10-19 20:03:24.217959Z
+tags: worker-17
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__get_forward_table_insufficient_buffer_reallocate
+time: 2025-10-19 20:03:24.273962Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__get_forward_table_insufficient_buffer_reallocate [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 20:03:24.212820Z
+tags: worker-9
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_physical_disks
+time: 2025-10-19 20:03:24.278872Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_physical_disks [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 20:03:24.215581Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_member_in_alias
+time: 2025-10-19 20:03:24.287688Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_member_in_alias [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.236358Z
+tags: worker-10
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_sysnative_dir_does_not_exist
+time: 2025-10-19 20:03:24.291753Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_sysnative_dir_does_not_exist [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 20:03:24.275410Z
+tags: worker-17
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__get_forward_table_no_memory
+time: 2025-10-19 20:03:24.294545Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__get_forward_table_no_memory [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 20:03:24.279723Z
+tags: worker-9
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volumes_first_fail
+time: 2025-10-19 20:03:24.300250Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volumes_first_fail [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 20:03:24.292347Z
+tags: worker-10
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_enum_users
+time: 2025-10-19 20:03:24.310695Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_enum_users [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 20:03:24.288677Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_os_version_no_pass
+time: 2025-10-19 20:03:24.311089Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_os_version_no_pass [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.295287Z
+tags: worker-17
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_os_version_fail
+time: 2025-10-19 20:03:24.323840Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_os_version_fail [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 20:03:24.263756Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_not_found
+time: 2025-10-19 20:03:24.328395Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_not_found [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.311559Z
+tags: worker-10
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_adapters_xp_2003
+time: 2025-10-19 20:03:24.336774Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_adapters_xp_2003 [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 20:03:24.220968Z
+tags: worker-12
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_dotnet_is_installed_not_v4
+time: 2025-10-19 20:03:24.338010Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_dotnet_is_installed_not_v4 [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 20:03:24.300994Z
+tags: worker-9
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_group_does_not_exist
+time: 2025-10-19 20:03:24.340348Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_group_does_not_exist [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 20:03:24.329032Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_os_version_pass
+time: 2025-10-19 20:03:24.347950Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_os_version_pass [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.324624Z
+tags: worker-17
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_no_load_true
+time: 2025-10-19 20:03:24.350541Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_no_load_true [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 20:03:24.337183Z
+tags: worker-10
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_password_maximum_length
+time: 2025-10-19 20:03:24.353994Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_password_maximum_length [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 20:03:24.312298Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_service
+time: 2025-10-19 20:03:24.355548Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_service [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.340703Z
+tags: worker-9
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_client_os
+time: 2025-10-19 20:03:24.365413Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_client_os [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 20:03:24.338565Z
+tags: worker-12
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_static_route_exists_false
+time: 2025-10-19 20:03:24.367454Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_static_route_exists_false [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 20:03:24.354617Z
+tags: worker-10
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volume_label_no_return_value
+time: 2025-10-19 20:03:24.378321Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volume_label_no_return_value [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 20:03:24.351186Z
+tags: worker-17
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_delete_service
+time: 2025-10-19 20:03:24.381393Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_delete_service [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 20:03:24.355818Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_close_user_logon_session
+time: 2025-10-19 20:03:24.382725Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_close_user_logon_session [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.331983Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_network_team_nic
+time: 2025-10-19 20:03:24.390154Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_network_team_nic [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.378888Z
+tags: worker-10
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_builtin_admin
+time: 2025-10-19 20:03:24.395588Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_builtin_admin [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 20:03:24.382386Z
+tags: worker-17
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_config_key_name_with_section
+time: 2025-10-19 20:03:24.403054Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_config_key_name_with_section [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 20:03:24.366161Z
+tags: worker-9
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reset_service_password_built_in_account
+time: 2025-10-19 20:03:24.406377Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reset_service_password_built_in_account [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 20:03:24.352979Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_error
+time: 2025-10-19 20:03:24.406960Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_error [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.390869Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_invalid_member
+time: 2025-10-19 20:03:24.408435Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_invalid_member [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.396097Z
+tags: worker-10
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_user
+time: 2025-10-19 20:03:24.413118Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_user [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 20:03:24.368032Z
+tags: worker-12
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_cdrom_drives
+time: 2025-10-19 20:03:24.413934Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_cdrom_drives [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 20:03:24.348596Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_server_level_success
+time: 2025-10-19 20:03:24.411771Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_server_level_success [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.383150Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_fail_load_true
+time: 2025-10-19 20:03:24.418748Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_fail_load_true [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.407575Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_service_fail
+time: 2025-10-19 20:03:24.428896Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_service_fail [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.403746Z
+tags: worker-17
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy_cannot_set_gateway
+time: 2025-10-19 20:03:24.430550Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy_cannot_set_gateway [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 20:03:24.407269Z
+tags: worker-9
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_network_adapter_mtu_not_supported
+time: 2025-10-19 20:03:24.431743Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_network_adapter_mtu_not_supported [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 20:03:24.371570Z
+tags: worker-11
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__get_forward_table_insufficient_buffer_other_error
+time: 2025-10-19 20:03:24.432788Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__get_forward_table_insufficient_buffer_other_error [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 20:03:24.408829Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_change_password_next_logon
+time: 2025-10-19 20:03:24.435469Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_change_password_next_logon [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.414356Z
+tags: worker-12
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_default_gateway
+time: 2025-10-19 20:03:24.441186Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_default_gateway [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 20:03:24.412135Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_process_as_user
+time: 2025-10-19 20:03:24.447116Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_process_as_user [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.431091Z
+tags: worker-17
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_timezone
+time: 2025-10-19 20:03:24.449499Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_timezone [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 20:03:24.435830Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_static_route_exists_true
+time: 2025-10-19 20:03:24.453723Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_static_route_exists_true [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.424772Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_powershell_script_sysnative
+time: 2025-10-19 20:03:24.460902Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_powershell_script_sysnative [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.385912Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__get_forward_table_insufficient_buffer_no_memory
+time: 2025-10-19 20:03:24.461535Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__get_forward_table_insufficient_buffer_no_memory [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:24.433278Z
+tags: worker-11
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_service
+time: 2025-10-19 20:03:24.469021Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_service [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 20:03:24.450379Z
+tags: worker-17
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_trim_exception
+time: 2025-10-19 20:03:24.471666Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_trim_exception [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 20:03:24.443090Z
+tags: worker-12
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_info_not_found
+time: 2025-10-19 20:03:24.472197Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_info_not_found [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 20:03:24.413576Z
+tags: worker-10
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy
+time: 2025-10-19 20:03:24.473700Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 20:03:24.454315Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_fail
+time: 2025-10-19 20:03:24.481796Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_fail [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.429822Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_powershell_script_system32
+time: 2025-10-19 20:03:24.482179Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_powershell_script_system32 [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.447633Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_firewall_create_rule
+time: 2025-10-19 20:03:24.485675Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_firewall_create_rule [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.462071Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__heap_alloc_no_error
+time: 2025-10-19 20:03:24.499584Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__heap_alloc_no_error [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:24.469710Z
+tags: worker-11
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_generate_random_password_less_than_3
+time: 2025-10-19 20:03:24.500960Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_generate_random_password_less_than_3 [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 20:03:24.482475Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_enum_users_exception
+time: 2025-10-19 20:03:24.501721Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_enum_users_exception [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.432211Z
+tags: worker-9
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_password_fail
+time: 2025-10-19 20:03:24.503618Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_password_fail [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 20:03:24.482578Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_firewall_remove_rule
+time: 2025-10-19 20:03:24.505467Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_firewall_remove_rule [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.486085Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_dhcp_hosts_in_use
+time: 2025-10-19 20:03:24.507044Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_dhcp_hosts_in_use [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.474017Z
+tags: worker-10
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy_cannot_set_ip
+time: 2025-10-19 20:03:24.523242Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy_cannot_set_ip [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 20:03:24.462025Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_team_manager_not_found
+time: 2025-10-19 20:03:24.523481Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_team_manager_not_found [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.476846Z
+tags: worker-12
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volume_path_names_by_mount_point_error
+time: 2025-10-19 20:03:24.531160Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volume_path_names_by_mount_point_error [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 20:03:24.502200Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_current_user
+time: 2025-10-19 20:03:24.531402Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_current_user [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.507493Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_service_start_mode
+time: 2025-10-19 20:03:24.543465Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_service_start_mode [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.501550Z
+tags: worker-11
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_file_version
+time: 2025-10-19 20:03:24.532404Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_file_version [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 20:03:24.531903Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_system_dir_32on64
+time: 2025-10-19 20:03:24.552794Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_system_dir_32on64 [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.506615Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_physical_disks_invalid_disk_handle
+time: 2025-10-19 20:03:24.556485Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_physical_disks_invalid_disk_handle [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.508802Z
+tags: worker-9
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_take_path_ownership_fail
+time: 2025-10-19 20:03:24.562778Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_take_path_ownership_fail [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 20:03:24.544248Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_network_adapter
+time: 2025-10-19 20:03:24.569848Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_network_adapter [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.553393Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_sid_fail
+time: 2025-10-19 20:03:24.573053Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_sid_fail [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.500750Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_member
+time: 2025-10-19 20:03:24.577579Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_no_member [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:24.557702Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_system_dir_64on64
+time: 2025-10-19 20:03:24.579001Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_system_dir_64on64 [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.540123Z
+tags: worker-11
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_system_dir_32on32
+time: 2025-10-19 20:03:24.587059Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_system_dir_32on32 [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 20:03:24.570903Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_host_name
+time: 2025-10-19 20:03:24.592642Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_host_name [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.573607Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_realtime_clock_utc_exception_raised
+time: 2025-10-19 20:03:24.597811Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_realtime_clock_utc_exception_raised [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.392167Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_access_denied
+time: 2025-10-19 20:03:24.601266Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_user_to_local_group_access_denied [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:24.578757Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_expire
+time: 2025-10-19 20:03:24.604994Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_expire [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:24.531902Z
+tags: worker-12
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_user_item_not_found
+time: 2025-10-19 20:03:24.601252Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_user_item_not_found [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 20:03:24.579459Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_info
+time: 2025-10-19 20:03:24.607926Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_info [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.523902Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volumes_next_fail
+time: 2025-10-19 20:03:24.610661Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volumes_next_fail [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.563895Z
+tags: worker-9
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_terminate
+time: 2025-10-19 20:03:24.614226Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_terminate [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 20:03:24.598134Z
+tags: worker-5
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_config_value_int
+time: 2025-10-19 20:03:24.616535Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_config_value_int [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 20:03:24.571371Z
+tags: worker-15
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_system32_process
+time: 2025-10-19 20:03:24.625839Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_system32_process [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 20:03:24.587856Z
+tags: worker-11
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_nano_server
+time: 2025-10-19 20:03:24.626432Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_nano_server [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 20:03:24.518642Z
+tags: worker-13
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_sysnative_dir_exists
+time: 2025-10-19 20:03:24.630477Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_sysnative_dir_exists [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 20:03:24.608376Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reboot
+time: 2025-10-19 20:03:24.626355Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reboot [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.593985Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_page_files
+time: 2025-10-19 20:03:24.633138Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_page_files [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.626183Z
+tags: worker-15
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_config_key_name_no_section
+time: 2025-10-19 20:03:24.646496Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_config_key_name_no_section [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 20:03:24.640264Z
+tags: worker-3
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_service_credentials
+time: 2025-10-19 20:03:24.664900Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_service_credentials [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 20:03:24.616119Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_realtime_clock_utc
+time: 2025-10-19 20:03:24.667926Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_realtime_clock_utc [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.633426Z
+tags: worker-13
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user
+time: 2025-10-19 20:03:24.669308Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 20:03:24.605651Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_enable_network_adapter
+time: 2025-10-19 20:03:24.673764Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_enable_network_adapter [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:24.601699Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_load_true
+time: 2025-10-19 20:03:24.674848Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_load_true [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:24.647182Z
+tags: worker-15
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_page_files
+time: 2025-10-19 20:03:24.676582Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_page_files [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 20:03:24.626668Z
+tags: worker-11
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reboot_failed
+time: 2025-10-19 20:03:24.677735Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reboot_failed [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 20:03:24.632827Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_ntp_client_config_sysnative_true
+time: 2025-10-19 20:03:24.692264Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_ntp_client_config_sysnative_true [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.674574Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_fix_network_adapter_dhcp_no_network_adapter
+time: 2025-10-19 20:03:24.696739Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_fix_network_adapter_dhcp_no_network_adapter [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:24.601539Z
+tags: worker-12
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_host_exception
+time: 2025-10-19 20:03:24.699858Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_host_exception [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 20:03:24.676852Z
+tags: worker-15
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_physical_disks_io_control
+time: 2025-10-19 20:03:24.701859Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_physical_disks_io_control [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 20:03:24.697822Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_timezone_fails
+time: 2025-10-19 20:03:24.718995Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_timezone_fails [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.655637Z
+tags: worker-14
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_static_route_fail
+time: 2025-10-19 20:03:24.722018Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_static_route_fail [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 20:03:24.700478Z
+tags: worker-12
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_network_adapter_mtu
+time: 2025-10-19 20:03:24.728867Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_network_adapter_mtu [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 20:03:24.682894Z
+tags: worker-11
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_info
+time: 2025-10-19 20:03:24.730308Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_info [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 20:03:24.702375Z
+tags: worker-15
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_physical_disks_other_error_and_no_interface_detail
+time: 2025-10-19 20:03:24.735359Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_physical_disks_other_error_and_no_interface_detail [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 20:03:24.669719Z
+tags: worker-13
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_fail_load_false
+time: 2025-10-19 20:03:24.735254Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_fail_load_false [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 20:03:24.669775Z
+tags: worker-7
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__heap_alloc_error
+time: 2025-10-19 20:03:24.738300Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__heap_alloc_error [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 20:03:24.719661Z
+tags: worker-1
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_stop_service
+time: 2025-10-19 20:03:24.740068Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_stop_service [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 20:03:24.722765Z
+tags: worker-14
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_dotnet_is_installed_v4
+time: 2025-10-19 20:03:24.743147Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_dotnet_is_installed_v4 [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 20:03:24.700863Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_syswow64_dir
+time: 2025-10-19 20:03:24.748890Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_syswow64_dir [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:24.736177Z
+tags: worker-15
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_not_realtime_clock_utc
+time: 2025-10-19 20:03:24.755716Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_not_realtime_clock_utc [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 20:03:24.735727Z
+tags: worker-13
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_process_as_user_fail
+time: 2025-10-19 20:03:24.758439Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_process_as_user_fail [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 20:03:24.738790Z
+tags: worker-7
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_change_password_next_logon_fail
+time: 2025-10-19 20:03:24.758543Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_change_password_next_logon_fail [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 20:03:24.673768Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reset_service_password_domain_account
+time: 2025-10-19 20:03:24.774422Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reset_service_password_domain_account [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.743723Z
+tags: worker-14
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_group_fail
+time: 2025-10-19 20:03:24.780780Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_group_fail [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 20:03:24.675244Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_powershell_script_sysnative_nano
+time: 2025-10-19 20:03:24.786011Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_powershell_script_sysnative_nano [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:24.758810Z
+tags: worker-13
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_default_gateway_error
+time: 2025-10-19 20:03:24.790113Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_default_gateway_error [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 20:03:24.758814Z
+tags: worker-7
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_disable_network_adapter
+time: 2025-10-19 20:03:24.790580Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_disable_network_adapter [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 20:03:24.730706Z
+tags: worker-11
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_user_exists
+time: 2025-10-19 20:03:24.795594Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_user_exists [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 20:03:24.781598Z
+tags: worker-14
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_config_value_type_str
+time: 2025-10-19 20:03:24.801716Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_config_value_type_str [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 20:03:24.715245Z
+tags: worker-16
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_server_level_no_success
+time: 2025-10-19 20:03:24.805043Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_server_level_no_success [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 20:03:24.790968Z
+tags: worker-7
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_fix_network_adapter_dhcp
+time: 2025-10-19 20:03:24.810844Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_fix_network_adapter_dhcp [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 20:03:24.786524Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_generate_random_password
+time: 2025-10-19 20:03:24.817813Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_generate_random_password [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:24.791251Z
+tags: worker-13
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_home
+time: 2025-10-19 20:03:24.819196Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_home [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 20:03:24.757161Z
+tags: worker-15
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_config_value_not_int
+time: 2025-10-19 20:03:24.821672Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_config_value_not_int [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 20:03:24.749238Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_sid
+time: 2025-10-19 20:03:24.822640Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_sid [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:24.774872Z
+tags: worker-4
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_take_path_ownership_username
+time: 2025-10-19 20:03:24.833801Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_take_path_ownership_username [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 20:03:24.802114Z
+tags: worker-14
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_sysnative_dir
+time: 2025-10-19 20:03:24.834194Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_sysnative_dir [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 20:03:24.805860Z
+tags: worker-16
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_group
+time: 2025-10-19 20:03:24.839170Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_group [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 20:03:24.811249Z
+tags: worker-7
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_logical_drives_exception
+time: 2025-10-19 20:03:24.841341Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_logical_drives_exception [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 20:03:24.782431Z
+tags: worker-19
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_server_level_fail
+time: 2025-10-19 20:03:24.847939Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_check_server_level_fail [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 20:03:24.834404Z
+tags: worker-14
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_system32_dir
+time: 2025-10-19 20:03:24.853721Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_system32_dir [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 20:03:24.823017Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_real_time_clock_utc_set_zero
+time: 2025-10-19 20:03:24.859896Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_real_time_clock_utc_set_zero [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:24.822361Z
+tags: worker-15
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy_cannot_set_DNS
+time: 2025-10-19 20:03:24.859089Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy_cannot_set_DNS [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 20:03:24.841923Z
+tags: worker-7
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_mac_address_by_local_ip
+time: 2025-10-19 20:03:24.861524Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_mac_address_by_local_ip [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 20:03:24.819613Z
+tags: worker-13
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volume_path_names_by_mount_point_failed
+time: 2025-10-19 20:03:24.870848Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volume_path_names_by_mount_point_failed [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 20:03:24.854477Z
+tags: worker-14
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_info_failed
+time: 2025-10-19 20:03:24.875611Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_info_failed [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 20:03:24.861929Z
+tags: worker-7
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_sanitize_shell_input
+time: 2025-10-19 20:03:24.883963Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_sanitize_shell_input [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 20:03:24.848991Z
+tags: worker-19
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_service_handle
+time: 2025-10-19 20:03:24.889259Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_service_handle [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 20:03:24.840363Z
+tags: worker-16
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_load_false
+time: 2025-10-19 20:03:24.890705Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_load_false [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 20:03:24.871664Z
+tags: worker-13
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_user_failed
+time: 2025-10-19 20:03:24.897525Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_user_failed [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 20:03:24.876354Z
+tags: worker-14
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_ntp_client_config_sysnative_exception
+time: 2025-10-19 20:03:24.906506Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_ntp_client_config_sysnative_exception [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 20:03:24.859488Z
+tags: worker-15
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_password
+time: 2025-10-19 20:03:24.910673Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_password [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 20:03:24.891386Z
+tags: worker-16
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_sid_and_domain_no_return_value
+time: 2025-10-19 20:03:24.915062Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_sid_and_domain_no_return_value [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 20:03:24.884734Z
+tags: worker-7
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_network_adapter_mtu_execute_fail
+time: 2025-10-19 20:03:24.917036Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_network_adapter_mtu_execute_fail [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 20:03:24.818277Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_cch_referenced_domain_name
+time: 2025-10-19 20:03:24.923891Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_cch_referenced_domain_name [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:24.907921Z
+tags: worker-14
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_start_service
+time: 2025-10-19 20:03:24.930567Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_start_service [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 20:03:24.900440Z
+tags: worker-13
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_wait_for_boot_completion
+time: 2025-10-19 20:03:24.937330Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_wait_for_boot_completion [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 20:03:24.917484Z
+tags: worker-7
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_test_set_path_admin_acls
+time: 2025-10-19 20:03:24.938407Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_test_set_path_admin_acls [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 20:03:24.915583Z
+tags: worker-16
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_network_adapter_with_retry
+time: 2025-10-19 20:03:24.951464Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_network_adapter_with_retry [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 20:03:24.716961Z
+tags: worker-18
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_config_value_type_int
+time: 2025-10-19 20:03:24.951621Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_config_value_type_int [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 20:03:24.924877Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_adapter_name_by_mac_address_multiple_adapters
+time: 2025-10-19 20:03:24.962239Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_adapter_name_by_mac_address_multiple_adapters [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:24.954638Z
+tags: worker-18
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_adapter_name_by_mac_address_no_adapters
+time: 2025-10-19 20:03:24.975835Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_adapter_name_by_mac_address_no_adapters [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 20:03:24.896803Z
+tags: worker-19
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_builtin_admin_sid_no_endswith
+time: 2025-10-19 20:03:24.975814Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_builtin_admin_sid_no_endswith [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 20:03:24.952268Z
+tags: worker-16
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reset_service_password
+time: 2025-10-19 20:03:24.979031Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reset_service_password [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 20:03:24.979789Z
+tags: worker-16
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_info_failed
+time: 2025-10-19 20:03:25.003010Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_info_failed [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 20:03:24.976636Z
+tags: worker-18
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_service_status
+time: 2025-10-19 20:03:25.011760Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_service_status [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 20:03:24.967910Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_team_manager
+time: 2025-10-19 20:03:25.029562Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_team_manager [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:25.012782Z
+tags: worker-18
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_home_fail
+time: 2025-10-19 20:03:25.034290Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_home_fail [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 20:03:24.976835Z
+tags: worker-19
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_builtin_admin_sid_no_startswith
+time: 2025-10-19 20:03:25.034811Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_builtin_admin_sid_no_startswith [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 20:03:25.003806Z
+tags: worker-16
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_info_full_options
+time: 2025-10-19 20:03:25.042160Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_info_full_options [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 20:03:24.867077Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_ipv6
+time: 2025-10-19 20:03:25.045638Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_ipv6 [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:25.043790Z
+tags: worker-16
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_trim
+time: 2025-10-19 20:03:25.065639Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_trim [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 20:03:25.035046Z
+tags: worker-18
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_group_exists
+time: 2025-10-19 20:03:25.066242Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_group_exists [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 20:03:25.066579Z
+tags: worker-18
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_builtin_admin_no_sid
+time: 2025-10-19 20:03:25.089013Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_builtin_admin_no_sid [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 20:03:24.807127Z
+tags: worker-8
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_static_route
+time: 2025-10-19 20:03:25.094771Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_add_static_route [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 20:03:25.089765Z
+tags: worker-18
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_network_adapter_failed
+time: 2025-10-19 20:03:25.120692Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_rename_network_adapter_failed [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 20:03:25.095548Z
+tags: worker-8
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_network_team
+time: 2025-10-19 20:03:25.121268Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_network_team [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 20:03:25.052876Z
+tags: worker-2
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_user_does_not_exist
+time: 2025-10-19 20:03:25.139617Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_user_does_not_exist [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 20:03:25.030426Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_sid_and_domain
+time: 2025-10-19 20:03:25.132242Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_user_sid_and_domain [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:25.035585Z
+tags: worker-19
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_routes
+time: 2025-10-19 20:03:25.152327Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_routes [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 20:03:25.121473Z
+tags: worker-18
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_real_time_clock_utc
+time: 2025-10-19 20:03:25.160535Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_real_time_clock_utc [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 20:03:24.914830Z
+tags: worker-6
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__get_forward_table_sufficient_buffer
+time: 2025-10-19 20:03:25.177736Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test__get_forward_table_sufficient_buffer [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 20:03:25.121862Z
+tags: worker-8
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_process_as_user_with_wait
+time: 2025-10-19 20:03:25.178927Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_execute_process_as_user_with_wait [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 20:03:25.161580Z
+tags: worker-18
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_password_expire
+time: 2025-10-19 20:03:25.187092Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_password_expire [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 20:03:25.141147Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volumes
+time: 2025-10-19 20:03:25.203455Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volumes [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:25.179475Z
+tags: worker-8
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_config_value_type_error
+time: 2025-10-19 20:03:25.208969Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_config_value_type_error [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 20:03:25.153069Z
+tags: worker-19
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_ntp_client_config_sysnative_false
+time: 2025-10-19 20:03:25.238659Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_ntp_client_config_sysnative_false [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 20:03:25.204605Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_realtime_clock_utc_registry_value_missing
+time: 2025-10-19 20:03:25.242567Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_is_realtime_clock_utc_registry_value_missing [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:25.243424Z
+tags: worker-0
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_take_path_ownership
+time: 2025-10-19 20:03:25.267498Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_take_path_ownership [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 20:03:25.178505Z
+tags: worker-6
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_no_load_false
+time: 2025-10-19 20:03:25.268325Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_create_user_logon_session_no_load_false [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 20:03:25.209794Z
+tags: worker-8
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_adapter_name_by_mac_address
+time: 2025-10-19 20:03:25.288861Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_adapter_name_by_mac_address [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 20:03:25.273841Z
+tags: worker-6
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_logical_drives
+time: 2025-10-19 20:03:25.310993Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_logical_drives [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 20:03:25.244927Z
+tags: worker-19
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_service_start_mode
+time: 2025-10-19 20:03:25.324475Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_service_start_mode [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 20:03:25.313792Z
+tags: worker-6
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_adapters
+time: 2025-10-19 20:03:25.339701Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_network_adapters [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 20:03:25.289427Z
+tags: worker-8
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volume_label
+time: 2025-10-19 20:03:25.346383Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volume_label [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 20:03:25.340717Z
+tags: worker-6
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_physical_disks_handle_disks_invalid
+time: 2025-10-19 20:03:25.394076Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_physical_disks_handle_disks_invalid [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 20:03:25.346937Z
+tags: worker-8
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volume_path_names_by_mount_point_not_found
+time: 2025-10-19 20:03:25.412376Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_volume_path_names_by_mount_point_not_found [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 20:03:25.395360Z
+tags: worker-6
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_service_username
+time: 2025-10-19 20:03:25.434924Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_get_service_username [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 20:03:25.332877Z
+tags: worker-19
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy_query_fail
+time: 2025-10-19 20:03:25.449289Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy_query_fail [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 20:03:25.453287Z
+tags: worker-19
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_test_set_path_admin_acls_fail
+time: 2025-10-19 20:03:25.482868Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_test_set_path_admin_acls_fail [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 20:03:25.417124Z
+tags: worker-8
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_network_adapter_mtu_no_name_match
+time: 2025-10-19 20:03:25.495811Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_network_adapter_mtu_no_name_match [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 20:03:25.435310Z
+tags: worker-6
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reset_service_password_no_service
+time: 2025-10-19 20:03:25.518379Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_reset_service_password_no_service [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 20:03:25.496931Z
+tags: worker-8
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_wait_for_boot_completion_wait
+time: 2025-10-19 20:03:25.526167Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_wait_for_boot_completion_wait [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 20:03:25.519087Z
+tags: worker-6
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_ipv4
+time: 2025-10-19 20:03:25.545550Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_ipv4 [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 20:03:25.546122Z
+tags: worker-6
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy_no_reboot
+time: 2025-10-19 20:03:25.596407Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_static_network_config_legacy_no_reboot [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 20:03:25.597284Z
+tags: worker-6
+test: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_info_not_found
+time: 2025-10-19 20:03:25.622664Z
+successful: cloudbaseinit.tests.osutils.test_windows.TestWindowsUtils.test_set_user_info_not_found [ multipart
+]
+tags: -worker-6

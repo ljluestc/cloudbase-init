@@ -1,0 +1,1162 @@
+time: 2025-10-19 23:20:20.176888Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_no_user
+time: 2025-10-19 23:20:20.180173Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_no_user [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:20:20.181263Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_execute_no_ephemeral_disk_data_loss_warning_path
+time: 2025-10-19 23:20:20.182558Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_execute_no_ephemeral_disk_data_loss_warning_path [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:20:20.182996Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.test_localscripts.LocalScriptsPluginTests.test_get_files_in_dir
+time: 2025-10-19 23:20:20.183476Z
+successful: cloudbaseinit.tests.plugins.common.test_localscripts.LocalScriptsPluginTests.test_get_files_in_dir [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:20:20.183630Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_multiple
+time: 2025-10-19 23:20:20.186326Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_multiple [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:20:20.186564Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_get_password_inject_false
+time: 2025-10-19 23:20:20.188390Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_get_password_inject_false [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:20:20.188918Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_non_multi_part_cloud_config_jinja
+time: 2025-10-19 23:20:20.190245Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_non_multi_part_cloud_config_jinja [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:20:20.190750Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_set_hostname.Set_HostNamePluginPluginTest.test_process
+time: 2025-10-19 23:20:20.192324Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_set_hostname.Set_HostNamePluginPluginTest.test_process [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:20:20.192909Z
+tags: worker-2
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_groups
+time: 2025-10-19 23:20:20.193115Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_groups [ multipart
+]
+tags: -worker-2
+time: 2025-10-19 23:20:20.196668Z
+tags: worker-4
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_address_netmask6
+time: 2025-10-19 23:20:20.201009Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_address_netmask6 [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:20:20.197537Z
+tags: worker-6
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_execute_no_metadata
+time: 2025-10-19 23:20:20.200563Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_execute_no_metadata [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 23:20:20.200814Z
+tags: worker-6
+test: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_from_data_extension
+time: 2025-10-19 23:20:20.201705Z
+successful: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_from_data_extension [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 23:20:20.201811Z
+tags: worker-6
+test: cloudbaseinit.tests.plugins.common.test_mtu.MTUPluginTests.test_execute_no_data
+time: 2025-10-19 23:20:20.202948Z
+successful: cloudbaseinit.tests.plugins.common.test_mtu.MTUPluginTests.test_execute_no_data [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 23:20:20.203219Z
+tags: worker-6
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_encrypt_password
+time: 2025-10-19 23:20:20.203551Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_encrypt_password [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 23:20:20.203619Z
+tags: worker-6
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_get_password_inject_true
+time: 2025-10-19 23:20:20.204577Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_get_password_inject_true [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 23:20:20.201492Z
+tags: worker-4
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_mac
+time: 2025-10-19 23:20:20.204611Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_mac [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:20:20.204806Z
+tags: worker-6
+test: cloudbaseinit.tests.plugins.common.test_trim.TrimPluginPluginTests.test_get_os_requirements
+time: 2025-10-19 23:20:20.204912Z
+successful: cloudbaseinit.tests.plugins.common.test_trim.TrimPluginPluginTests.test_get_os_requirements [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 23:20:20.200579Z
+tags: worker-7
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_add_part_handlers_skip_part_handler
+time: 2025-10-19 23:20:20.205430Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_add_part_handlers_skip_part_handler [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 23:20:20.205826Z
+tags: worker-7
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_parse_mime
+time: 2025-10-19 23:20:20.207375Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_parse_mime [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 23:20:20.207695Z
+tags: worker-7
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_runcmd.RunCmdPluginTest.test_process_basic_data
+time: 2025-10-19 23:20:20.208627Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_runcmd.RunCmdPluginTest.test_process_basic_data [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 23:20:20.208902Z
+tags: worker-7
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_invalid_object_passed
+time: 2025-10-19 23:20:20.209064Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_invalid_object_passed [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 23:20:20.205014Z
+tags: worker-6
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_part_exception_occurs
+time: 2025-10-19 23:20:20.209406Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_part_exception_occurs [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 23:20:20.205175Z
+tags: worker-4
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_name_mac
+time: 2025-10-19 23:20:20.209540Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_name_mac [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:20:20.205016Z
+tags: worker-10
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin_taken
+time: 2025-10-19 23:20:20.209339Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin_taken [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 23:20:20.207561Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_path_by_mount_point
+time: 2025-10-19 23:20:20.208922Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_path_by_mount_point [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:20:20.209753Z
+tags: worker-6
+test: cloudbaseinit.tests.plugins.common.test_userdatautils.UserDataUtilsTest.test_execute_user_data_script
+time: 2025-10-19 23:20:20.210466Z
+successful: cloudbaseinit.tests.plugins.common.test_userdatautils.UserDataUtilsTest.test_execute_user_data_script [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 23:20:20.209696Z
+tags: worker-10
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_mount_point_exception
+time: 2025-10-19 23:20:20.210634Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_mount_point_exception [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 23:20:20.209579Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_execute_cleanup
+time: 2025-10-19 23:20:20.211221Z
+successful: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_execute_cleanup [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:20:20.210632Z
+tags: worker-6
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_write_file
+time: 2025-10-19 23:20:20.211409Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_write_file [ multipart
+]
+tags: -worker-6
+time: 2025-10-19 23:20:20.210864Z
+tags: worker-10
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_mount_point_no_paths
+time: 2025-10-19 23:20:20.211464Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_mount_point_no_paths [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 23:20:20.209249Z
+tags: worker-7
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_process_item_write
+time: 2025-10-19 23:20:20.212546Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_process_item_write [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 23:20:20.210142Z
+tags: worker-4
+test: cloudbaseinit.tests.plugins.common.test_trim.TrimPluginPluginTests.test_trim_disable
+time: 2025-10-19 23:20:20.211537Z
+successful: cloudbaseinit.tests.plugins.common.test_trim.TrimPluginPluginTests.test_trim_disable [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:20:20.212819Z
+tags: worker-7
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_heat.HeatUserDataHandlerTests.test_check_heat_config_dir
+time: 2025-10-19 23:20:20.213368Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_heat.HeatUserDataHandlerTests.test_check_heat_config_dir [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 23:20:20.211543Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_all
+time: 2025-10-19 23:20:20.213410Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_all [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:20:20.211670Z
+tags: worker-4
+test: cloudbaseinit.tests.plugins.common.test_trim.TrimPluginPluginTests.test_trim_enable
+time: 2025-10-19 23:20:20.212072Z
+successful: cloudbaseinit.tests.plugins.common.test_trim.TrimPluginPluginTests.test_trim_enable [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:20:20.212226Z
+tags: worker-4
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_empty
+time: 2025-10-19 23:20:20.212867Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_empty [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:20:20.213044Z
+tags: worker-4
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_process_permissions
+time: 2025-10-19 23:20:20.213743Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_process_permissions [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:20:20.211818Z
+tags: worker-10
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_address6
+time: 2025-10-19 23:20:20.214066Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_address6 [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 23:20:20.213667Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_execute
+time: 2025-10-19 23:20:20.214385Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_execute [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:20:20.213995Z
+tags: worker-4
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudconfig.CloudConfigPluginTests.test_invalid_type
+time: 2025-10-19 23:20:20.214527Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudconfig.CloudConfigPluginTests.test_invalid_type [ multipart
+]
+tags: -worker-4
+time: 2025-10-19 23:20:20.214501Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_non_multi_part_no_valid_template
+time: 2025-10-19 23:20:20.215237Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_non_multi_part_no_valid_template [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:20:20.213470Z
+tags: worker-7
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_heat.HeatUserDataHandlerTests.test_process
+time: 2025-10-19 23:20:20.215308Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_heat.HeatUserDataHandlerTests.test_process [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 23:20:20.215401Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_runcmd.RunCmdPluginTest.test_unify_scripts
+time: 2025-10-19 23:20:20.215483Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_runcmd.RunCmdPluginTest.test_unify_scripts [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:20:20.213662Z
+tags: worker-1
+test: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_from_data
+time: 2025-10-19 23:20:20.215807Z
+successful: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_from_data [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 23:20:20.214202Z
+tags: worker-10
+test: cloudbaseinit.tests.plugins.common.test_ntpclient.NTPClientPluginTests.test_execute_use_dhcp_config_has_ntp_option_data
+time: 2025-10-19 23:20:20.216045Z
+successful: cloudbaseinit.tests.plugins.common.test_ntpclient.NTPClientPluginTests.test_execute_use_dhcp_config_has_ntp_option_data [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 23:20:20.215580Z
+tags: worker-7
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_heat.HeatUserDataHandlerTests.test_process_payload
+time: 2025-10-19 23:20:20.217163Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_heat.HeatUserDataHandlerTests.test_process_payload [ multipart
+]
+tags: -worker-7
+time: 2025-10-19 23:20:20.216157Z
+tags: worker-1
+test: cloudbaseinit.tests.plugins.common.test_mtu.MTUPluginTests.test_execute_success
+time: 2025-10-19 23:20:20.217276Z
+successful: cloudbaseinit.tests.plugins.common.test_mtu.MTUPluginTests.test_execute_success [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 23:20:20.215590Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_process_item_append
+time: 2025-10-19 23:20:20.217441Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_process_item_append [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:20:20.217639Z
+tags: worker-1
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_begin_part_process_event
+time: 2025-10-19 23:20:20.218162Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_begin_part_process_event [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 23:20:20.217644Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_write_file_dict
+time: 2025-10-19 23:20:20.219121Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_write_file_dict [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:20:20.219369Z
+tags: worker-3
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudconfig.CloudConfigPluginTests.test_priority
+time: 2025-10-19 23:20:20.219491Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudconfig.CloudConfigPluginTests.test_priority [ multipart
+]
+tags: -worker-3
+time: 2025-10-19 23:20:20.214850Z
+tags: worker-9
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_user_exists
+time: 2025-10-19 23:20:20.217938Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_user_exists [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 23:20:20.218351Z
+tags: worker-1
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_non_multi_part_cloud_config
+time: 2025-10-19 23:20:20.219115Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_non_multi_part_cloud_config [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 23:20:20.216280Z
+tags: worker-10
+test: cloudbaseinit.tests.plugins.common.test_sshpublickeys.SetUserSSHPublicKeysPluginTests.test_execute_with_user_home
+time: 2025-10-19 23:20:20.219401Z
+successful: cloudbaseinit.tests.plugins.common.test_sshpublickeys.SetUserSSHPublicKeysPluginTests.test_execute_with_user_home [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 23:20:20.218192Z
+tags: worker-9
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_label_no_disk_volume_label
+time: 2025-10-19 23:20:20.218453Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_label_no_disk_volume_label [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 23:20:20.218558Z
+tags: worker-9
+test: cloudbaseinit.tests.plugins.common.test_fileexecutils.TestFileExecutilsPlugin.test_exec_file_fails
+time: 2025-10-19 23:20:20.219551Z
+successful: cloudbaseinit.tests.plugins.common.test_fileexecutils.TestFileExecutilsPlugin.test_exec_file_fails [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 23:20:20.219724Z
+tags: worker-9
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_logon_behaviour_clear_text_password_injected
+time: 2025-10-19 23:20:20.220423Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_logon_behaviour_clear_text_password_injected [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 23:20:20.219624Z
+tags: worker-10
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_write_userdata_fail
+time: 2025-10-19 23:20:20.221716Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_write_userdata_fail [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 23:20:20.220555Z
+tags: worker-9
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_user_data_multipart_reboot_false
+time: 2025-10-19 23:20:20.222055Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_user_data_multipart_reboot_false [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 23:20:20.221987Z
+tags: worker-10
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_set_ntp.SetNtpPluginTest.test_process_no_servers
+time: 2025-10-19 23:20:20.222384Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_set_ntp.SetNtpPluginTest.test_process_no_servers [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 23:20:20.222373Z
+tags: worker-9
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user_inactive_with_create_home
+time: 2025-10-19 23:20:20.222815Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user_inactive_with_create_home [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 23:20:20.222632Z
+tags: worker-10
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudconfig.CloudConfigPluginTests.test_invalid_type_empty
+time: 2025-10-19 23:20:20.223241Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudconfig.CloudConfigPluginTests.test_invalid_type_empty [ multipart
+]
+tags: -worker-10
+time: 2025-10-19 23:20:20.223049Z
+tags: worker-9
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_missing_encoding
+time: 2025-10-19 23:20:20.224466Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_missing_encoding [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 23:20:20.224602Z
+tags: worker-9
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_missing_required_keys
+time: 2025-10-19 23:20:20.225040Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_missing_required_keys [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 23:20:20.219625Z
+tags: worker-1
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_processing_plugin_failed
+time: 2025-10-19 23:20:20.226140Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_processing_plugin_failed [ multipart
+]
+tags: -worker-1
+time: 2025-10-19 23:20:20.225273Z
+tags: worker-9
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_shellscript.ShellScriptPluginTests.test_process
+time: 2025-10-19 23:20:20.228727Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_shellscript.ShellScriptPluginTests.test_process [ multipart
+]
+tags: -worker-9
+time: 2025-10-19 23:20:20.233597Z
+tags: worker-11
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin
+time: 2025-10-19 23:20:20.238848Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_rename_admin [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 23:20:20.239428Z
+tags: worker-11
+test: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_get_plugin_return_value
+time: 2025-10-19 23:20:20.239925Z
+successful: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_get_plugin_return_value [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 23:20:20.239065Z
+tags: worker-14
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_execute
+time: 2025-10-19 23:20:20.241881Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_execute [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 23:20:20.239211Z
+tags: worker-17
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_execute_no_ephemeral_disk_volume_path
+time: 2025-10-19 23:20:20.242967Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_execute_no_ephemeral_disk_volume_path [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 23:20:20.242287Z
+tags: worker-14
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_label
+time: 2025-10-19 23:20:20.243181Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_label [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 23:20:20.240164Z
+tags: worker-11
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_netmask6
+time: 2025-10-19 23:20:20.243580Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_netmask6 [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 23:20:20.243266Z
+tags: worker-14
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_label_no_label
+time: 2025-10-19 23:20:20.243862Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_label_no_label [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 23:20:20.243926Z
+tags: worker-14
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_path_by_label
+time: 2025-10-19 23:20:20.244561Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_path_by_label [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 23:20:20.243772Z
+tags: worker-11
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_no_network_adapters
+time: 2025-10-19 23:20:20.244720Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_no_network_adapters [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 23:20:20.243378Z
+tags: worker-17
+test: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_execute_powershell_command
+time: 2025-10-19 23:20:20.245060Z
+successful: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_execute_powershell_command [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 23:20:20.242393Z
+tags: worker-12
+test: cloudbaseinit.tests.plugins.common.test_mtu.MTUPluginTests.test_disabled_use_dhcp
+time: 2025-10-19 23:20:20.244973Z
+successful: cloudbaseinit.tests.plugins.common.test_mtu.MTUPluginTests.test_disabled_use_dhcp [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 23:20:20.245012Z
+tags: worker-11
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_set_metadata_password_no_ssh_key
+time: 2025-10-19 23:20:20.245925Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_set_metadata_password_no_ssh_key [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 23:20:20.246087Z
+tags: worker-11
+test: cloudbaseinit.tests.plugins.common.test_sshpublickeys.SetUserSSHPublicKeysPluginTests.test_execute_with_no_user_home
+time: 2025-10-19 23:20:20.247652Z
+successful: cloudbaseinit.tests.plugins.common.test_sshpublickeys.SetUserSSHPublicKeysPluginTests.test_execute_with_no_user_home [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 23:20:20.245284Z
+tags: worker-17
+test: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_process_ec2_powershell
+time: 2025-10-19 23:20:20.246364Z
+successful: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_process_ec2_powershell [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 23:20:20.244930Z
+tags: worker-14
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_change_logon_behaviour_clear_text_password_not_injected
+time: 2025-10-19 23:20:20.245511Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_change_logon_behaviour_clear_text_password_not_injected [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 23:20:20.245598Z
+tags: worker-14
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_set_metadata_password_with_ssh_key
+time: 2025-10-19 23:20:20.247993Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_set_metadata_password_with_ssh_key [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 23:20:20.247780Z
+tags: worker-11
+test: cloudbaseinit.tests.plugins.common.test_sshpublickeys.SetUserSSHPublicKeysPluginTests.test_no_public_keys
+time: 2025-10-19 23:20:20.248238Z
+successful: cloudbaseinit.tests.plugins.common.test_sshpublickeys.SetUserSSHPublicKeysPluginTests.test_no_public_keys [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 23:20:20.246644Z
+tags: worker-17
+test: cloudbaseinit.tests.plugins.common.test_sethostname.SetHostNamePluginPluginTests.test_execute_new_hostname
+time: 2025-10-19 23:20:20.248291Z
+successful: cloudbaseinit.tests.plugins.common.test_sethostname.SetHostNamePluginPluginTests.test_execute_new_hostname [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 23:20:20.248377Z
+tags: worker-11
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_end_part_process_event
+time: 2025-10-19 23:20:20.248662Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_end_part_process_event [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 23:20:20.245320Z
+tags: worker-12
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_netmask
+time: 2025-10-19 23:20:20.248192Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_netmask [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 23:20:20.248789Z
+tags: worker-12
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_no_network_details
+time: 2025-10-19 23:20:20.249813Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_no_network_details [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 23:20:20.250032Z
+tags: worker-12
+test: cloudbaseinit.tests.plugins.common.test_ntpclient.NTPClientPluginTests.test_execute_no_dhcp_config
+time: 2025-10-19 23:20:20.253941Z
+successful: cloudbaseinit.tests.plugins.common.test_ntpclient.NTPClientPluginTests.test_execute_no_dhcp_config [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 23:20:20.248586Z
+tags: worker-17
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_add_part_handlers
+time: 2025-10-19 23:20:20.255429Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_add_part_handlers [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 23:20:20.255854Z
+tags: worker-17
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_execute_not_user_data
+time: 2025-10-19 23:20:20.256512Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_execute_not_user_data [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 23:20:20.254820Z
+tags: worker-12
+test: cloudbaseinit.tests.plugins.common.test_sethostname.SetHostNamePluginPluginTests.test_execute_no_hostname
+time: 2025-10-19 23:20:20.255871Z
+successful: cloudbaseinit.tests.plugins.common.test_sethostname.SetHostNamePluginPluginTests.test_execute_no_hostname [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 23:20:20.256621Z
+tags: worker-17
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_part_not_content_type
+time: 2025-10-19 23:20:20.260785Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_part_not_content_type [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 23:20:20.256111Z
+tags: worker-12
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_set_password
+time: 2025-10-19 23:20:20.262784Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_set_password [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 23:20:20.248398Z
+tags: worker-14
+test: cloudbaseinit.tests.plugins.common.test_userdata.TestCloudConfig.test_cloud_config_multipart
+time: 2025-10-19 23:20:20.262880Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.TestCloudConfig.test_cloud_config_multipart [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 23:20:20.261530Z
+tags: worker-17
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user
+time: 2025-10-19 23:20:20.263887Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__create_user [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 23:20:20.263189Z
+tags: worker-14
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_write_userdata
+time: 2025-10-19 23:20:20.266327Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_write_userdata [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 23:20:20.248834Z
+tags: worker-11
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_wrong_gzip_content
+time: 2025-10-19 23:20:20.265830Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_wrong_gzip_content [ multipart
+]
+tags: -worker-11
+time: 2025-10-19 23:20:20.263460Z
+tags: worker-12
+test: cloudbaseinit.tests.plugins.common.test_sshpublickeys.SetUserSSHPublicKeysPluginTests.test_execute_with_user_provided_by_metadata
+time: 2025-10-19 23:20:20.267084Z
+successful: cloudbaseinit.tests.plugins.common.test_sshpublickeys.SetUserSSHPublicKeysPluginTests.test_execute_with_user_provided_by_metadata [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 23:20:20.264215Z
+tags: worker-17
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_expire_interval
+time: 2025-10-19 23:20:20.264349Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_expire_interval [ multipart
+]
+tags: -worker-17
+time: 2025-10-19 23:20:20.266560Z
+tags: worker-14
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group
+time: 2025-10-19 23:20:20.267435Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group [ multipart
+]
+tags: -worker-14
+time: 2025-10-19 23:20:20.267300Z
+tags: worker-12
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_execute_no_data
+time: 2025-10-19 23:20:20.268092Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_execute_no_data [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 23:20:20.268464Z
+tags: worker-12
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_write_file_excp
+time: 2025-10-19 23:20:20.270786Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_write_file_excp [ multipart
+]
+tags: -worker-12
+time: 2025-10-19 23:20:20.271856Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_path_None
+time: 2025-10-19 23:20:20.273965Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_path_None [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:20.267959Z
+tags: worker-0
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_part
+time: 2025-10-19 23:20:20.272663Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_part [ multipart
+]
+tags: -worker-0
+time: 2025-10-19 23:20:20.274632Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_invalid_network_details
+time: 2025-10-19 23:20:20.276282Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_invalid_network_details [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:20.276565Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_gateway
+time: 2025-10-19 23:20:20.278729Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_gateway [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:20.279080Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_network_details_v2_empty_network_dns_list
+time: 2025-10-19 23:20:20.281431Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_network_details_v2_empty_network_dns_list [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:20.281792Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_network_details_v2_ipv4_dns_list
+time: 2025-10-19 23:20:20.283084Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_network_details_v2_ipv4_dns_list [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:20.283390Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_execute
+time: 2025-10-19 23:20:20.289445Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_execute [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:20.290040Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_wrong_content
+time: 2025-10-19 23:20:20.290289Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_wrong_content [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:20.290393Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_runcmd.RunCmdPluginTest.test_process_wrong_cmd_type
+time: 2025-10-19 23:20:20.291388Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_runcmd.RunCmdPluginTest.test_process_wrong_cmd_type [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:20.291894Z
+tags: worker-18
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test_process_user
+time: 2025-10-19 23:20:20.292707Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test_process_user [ multipart
+]
+tags: -worker-18
+time: 2025-10-19 23:20:20.311054Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_add_to_group_fails
+time: 2025-10-19 23:20:20.320511Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_execute_add_to_group_fails [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:20:20.320814Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_get_password
+time: 2025-10-19 23:20:20.321472Z
+successful: cloudbaseinit.tests.plugins.common.test_createuser.CreateUserPluginTests.test_get_password [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:20:20.324978Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_os_requirements
+time: 2025-10-19 23:20:20.325595Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_os_requirements [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:20.321850Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_mac2
+time: 2025-10-19 23:20:20.323983Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_mac2 [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:20:20.324144Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_network_details_v2
+time: 2025-10-19 23:20:20.326729Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_network_details_v2 [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:20:20.326953Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.test_ntpclient.NTPClientPluginTests.test_execute_no_ntp_options_data
+time: 2025-10-19 23:20:20.328809Z
+successful: cloudbaseinit.tests.plugins.common.test_ntpclient.NTPClientPluginTests.test_execute_no_ntp_options_data [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:20:20.325730Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_execute_normal_command
+time: 2025-10-19 23:20:20.329005Z
+successful: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_execute_normal_command [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:20.329068Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_set_metadata_password_already_set
+time: 2025-10-19 23:20:20.329451Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_set_metadata_password_already_set [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:20:20.329660Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.test_userdatautils.UserDataUtilsTest.test_execute_user_data_script_no_commands
+time: 2025-10-19 23:20:20.330057Z
+successful: cloudbaseinit.tests.plugins.common.test_userdatautils.UserDataUtilsTest.test_execute_user_data_script_no_commands [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:20:20.330446Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_decode_steps
+time: 2025-10-19 23:20:20.330624Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_decode_steps [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:20:20.329750Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.test_localscripts.LocalScriptsPluginTests.test_execute
+time: 2025-10-19 23:20:20.331153Z
+successful: cloudbaseinit.tests.plugins.common.test_localscripts.LocalScriptsPluginTests.test_execute [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:20.330903Z
+tags: worker-5
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudboothook.CloudBootHookPluginTests.test_process
+time: 2025-10-19 23:20:20.331582Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudboothook.CloudBootHookPluginTests.test_process [ multipart
+]
+tags: -worker-5
+time: 2025-10-19 23:20:20.331906Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_invalid_network_details_name
+time: 2025-10-19 23:20:20.333079Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_invalid_network_details_name [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:20.334156Z
+tags: worker-16
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_mount_point
+time: 2025-10-19 23:20:20.335893Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_mount_point [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 23:20:20.336535Z
+tags: worker-16
+test: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_process_ec2_script
+time: 2025-10-19 23:20:20.337818Z
+successful: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_process_ec2_script [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 23:20:20.333140Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_one
+time: 2025-10-19 23:20:20.338901Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_one [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:20.338162Z
+tags: worker-16
+test: cloudbaseinit.tests.plugins.common.test_fileexecutils.TestFileExecutilsPlugin.test_exec_file_no_executor
+time: 2025-10-19 23:20:20.340896Z
+successful: cloudbaseinit.tests.plugins.common.test_fileexecutils.TestFileExecutilsPlugin.test_exec_file_no_executor [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 23:20:20.339239Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.test_ntpclient.NTPClientPluginTests.test_execute_enable_ntp_service
+time: 2025-10-19 23:20:20.341748Z
+successful: cloudbaseinit.tests.plugins.common.test_ntpclient.NTPClientPluginTests.test_execute_enable_ntp_service [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:20.341447Z
+tags: worker-16
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_non_multi_part
+time: 2025-10-19 23:20:20.342901Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_non_multi_part [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 23:20:20.342107Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_user_data_multipart_reboot_true
+time: 2025-10-19 23:20:20.343219Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_user_data_multipart_reboot_true [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:20.343410Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.test_userdatautils.UserDataUtilsTest.test_execute_user_data_script_fails
+time: 2025-10-19 23:20:20.345524Z
+successful: cloudbaseinit.tests.plugins.common.test_userdatautils.UserDataUtilsTest.test_execute_user_data_script_fails [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:20.346315Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_runcmd.RunCmdPluginTest.test_unify_scripts_fail
+time: 2025-10-19 23:20:20.346537Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_runcmd.RunCmdPluginTest.test_unify_scripts_fail [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:20.346683Z
+tags: worker-8
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_password
+time: 2025-10-19 23:20:20.347159Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_users.UsersPluginTests.test__get_password [ multipart
+]
+tags: -worker-8
+time: 2025-10-19 23:20:20.343622Z
+tags: worker-16
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_user_data_non_multipart
+time: 2025-10-19 23:20:20.346637Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_user_data_non_multipart [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 23:20:20.346814Z
+tags: worker-16
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_fail
+time: 2025-10-19 23:20:20.347536Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_groups.GroupsPluginTests.test_process_group_fail [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 23:20:20.347653Z
+tags: worker-16
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_set_ntp.SetNtpPluginTest.test_process_servers_pools
+time: 2025-10-19 23:20:20.348125Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_set_ntp.SetNtpPluginTest.test_process_servers_pools [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 23:20:20.348195Z
+tags: worker-16
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_set_timezone.TestSetTimezone.test_process
+time: 2025-10-19 23:20:20.351601Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_set_timezone.TestSetTimezone.test_process [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 23:20:20.352301Z
+tags: worker-16
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_shellscript.ShellScriptPluginTests.test_process_exception
+time: 2025-10-19 23:20:20.357165Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_shellscript.ShellScriptPluginTests.test_process_exception [ multipart
+]
+tags: -worker-16
+time: 2025-10-19 23:20:20.376575Z
+tags: worker-13
+test: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_args
+time: 2025-10-19 23:20:20.379259Z
+successful: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_args [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 23:20:20.379544Z
+tags: worker-13
+test: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_process_ec2_order
+time: 2025-10-19 23:20:20.381026Z
+successful: cloudbaseinit.tests.plugins.common.test_execcmd.TestExecCmd.test_process_ec2_order [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 23:20:20.381321Z
+tags: worker-13
+test: cloudbaseinit.tests.plugins.common.test_ntpclient.NTPClientPluginTests.test_execute_is_not_real_time
+time: 2025-10-19 23:20:20.385826Z
+successful: cloudbaseinit.tests.plugins.common.test_ntpclient.NTPClientPluginTests.test_execute_is_not_real_time [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 23:20:20.387149Z
+tags: worker-13
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_logon_behaviour_always
+time: 2025-10-19 23:20:20.390222Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_logon_behaviour_always [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 23:20:20.391353Z
+tags: worker-13
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_execute_NotExistingMetadataException
+time: 2025-10-19 23:20:20.392227Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_execute_NotExistingMetadataException [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 23:20:20.392970Z
+tags: worker-13
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_get_header
+time: 2025-10-19 23:20:20.393290Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_get_header [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 23:20:20.393788Z
+tags: worker-13
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_process_item_fail
+time: 2025-10-19 23:20:20.394641Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_process_item_fail [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 23:20:20.395048Z
+tags: worker-13
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_unknown_encoding
+time: 2025-10-19 23:20:20.397187Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_unknown_encoding [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 23:20:20.397709Z
+tags: worker-13
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_parthandler.PartHandlerPluginTests.test_process
+time: 2025-10-19 23:20:20.399622Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_parthandler.PartHandlerPluginTests.test_process [ multipart
+]
+tags: -worker-13
+time: 2025-10-19 23:20:20.434612Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_mount_point_no_mount_point
+time: 2025-10-19 23:20:20.440269Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_get_ephemeral_disk_volume_by_mount_point_no_mount_point [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:20.440603Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_set_ephemeral_disk_data_loss_warning_exception
+time: 2025-10-19 23:20:20.447694Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_set_ephemeral_disk_data_loss_warning_exception [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:20.448019Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_network_details_v2_ipv6_dns_list
+time: 2025-10-19 23:20:20.449780Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_network_details_v2_ipv6_dns_list [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:20.450077Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_logon_behaviour_never_change
+time: 2025-10-19 23:20:20.450572Z
+successful: cloudbaseinit.tests.plugins.common.test_setuserpassword.SetUserPasswordPluginTests.test_logon_behaviour_never_change [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:20.450719Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_part_no_handler_func
+time: 2025-10-19 23:20:20.459495Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_part_no_handler_func [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:20.464021Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_set_timezone.TestSetTimezone.test_timezone_dispatch
+time: 2025-10-19 23:20:20.465857Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_set_timezone.TestSetTimezone.test_timezone_dispatch [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:20.466612Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_write_file_list
+time: 2025-10-19 23:20:20.469309Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_write_file_list [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:20.469504Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_wrong_b64_content
+time: 2025-10-19 23:20:20.485636Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.cloudconfigplugins.test_write_files.WriteFilesPluginTests.test_wrong_b64_content [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:20.487059Z
+tags: worker-19
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_heat.HeatUserDataHandlerTests.test_process_content_other_data
+time: 2025-10-19 23:20:20.488729Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_heat.HeatUserDataHandlerTests.test_process_content_other_data [ multipart
+]
+tags: -worker-19
+time: 2025-10-19 23:20:20.492981Z
+tags: worker-15
+test: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_set_ephemeral_disk_data_loss_warning
+time: 2025-10-19 23:20:20.498027Z
+successful: cloudbaseinit.tests.plugins.common.test_ephemeraldisk.TestEphemeralDiskPlugin.test_set_ephemeral_disk_data_loss_warning [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 23:20:20.498777Z
+tags: worker-15
+test: cloudbaseinit.tests.plugins.common.test_fileexecutils.TestFileExecutilsPlugin.test_exec_file_
+time: 2025-10-19 23:20:20.499734Z
+successful: cloudbaseinit.tests.plugins.common.test_fileexecutils.TestFileExecutilsPlugin.test_exec_file_ [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 23:20:20.499870Z
+tags: worker-15
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_address
+time: 2025-10-19 23:20:20.503391Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_missing_address [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 23:20:20.503791Z
+tags: worker-15
+test: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_single
+time: 2025-10-19 23:20:20.505157Z
+successful: cloudbaseinit.tests.plugins.common.test_networkconfig.TestNetworkConfigPlugin.test_execute_single [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 23:20:20.505737Z
+tags: worker-15
+test: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_non_multipart_dont_process_x509
+time: 2025-10-19 23:20:20.506815Z
+successful: cloudbaseinit.tests.plugins.common.test_userdata.UserDataPluginTest.test_process_non_multipart_dont_process_x509 [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 23:20:20.507313Z
+tags: worker-15
+test: cloudbaseinit.tests.plugins.common.test_userdatautils.UserDataUtilsTest.test_get_command
+time: 2025-10-19 23:20:20.508596Z
+successful: cloudbaseinit.tests.plugins.common.test_userdatautils.UserDataUtilsTest.test_get_command [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 23:20:20.508837Z
+tags: worker-15
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudconfig.CloudConfigPluginTests.test_default_priority
+time: 2025-10-19 23:20:20.509023Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudconfig.CloudConfigPluginTests.test_default_priority [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 23:20:20.509070Z
+tags: worker-15
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudconfig.CloudConfigPluginTests.test_executor_from_yaml
+time: 2025-10-19 23:20:20.509528Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_cloudconfig.CloudConfigPluginTests.test_executor_from_yaml [ multipart
+]
+tags: -worker-15
+time: 2025-10-19 23:20:20.509597Z
+tags: worker-15
+test: cloudbaseinit.tests.plugins.common.userdataplugins.test_factory.UserDataPluginsFactoryTests.test_process
+time: 2025-10-19 23:20:20.510661Z
+successful: cloudbaseinit.tests.plugins.common.userdataplugins.test_factory.UserDataPluginsFactoryTests.test_process [ multipart
+]
+tags: -worker-15
